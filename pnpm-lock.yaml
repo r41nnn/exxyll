@@ -13,7 +13,7 @@ specifiers:
   dotenv: 16.0.1
   glob: 8.0.3
   moment: 2.29.4
-  mongoose: 6.5.2
+  mongoose: 6.5.3
   ms: 2.1.3
   node-fetch: 2.6.7
   nodemon: 2.0.19
@@ -37,7 +37,7 @@ dependencies:
   dotenv: 16.0.1
   glob: 8.0.3
   moment: 2.29.4
-  mongoose: 6.5.2
+  mongoose: 6.5.3
   ms: 2.1.3
   node-fetch: 2.6.7
   pretty-ms: 7.0.1
@@ -1354,8 +1354,8 @@ packages:
       - supports-color
     dev: false
 
-  /mongoose/6.5.2:
-    resolution: {integrity: sha512-3CFDrSLtK2qjM1pZeZpLTUyqPRkc11Iuh74ZrwS4IwEJ3K2PqGnmyPLw7ex4Kzu37ujIMp3MAuiBlUjfrcb6hw==}
+  /mongoose/6.5.3:
+    resolution: {integrity: sha512-0L2ZOPzNQ7kcIgpdfpmVXc+/SypdhzcTlaHXYa983u1lrVp7/i3ekwHpPiTXxYBvV6FwBAsFoHI7+Ovf8tp3Mg==}
     engines: {node: '>=12.0.0'}
     dependencies:
       bson: 4.6.5
