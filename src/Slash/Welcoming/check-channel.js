@@ -1,5 +1,5 @@
 const { Client, CommandInteraction, MessageEmbed } = require('discord.js');
-const Schema = require('../../Models/WelcomeChannel');
+const Schema = require('../../models/WelcomeChannel');
 
 module.exports = {
     name: 'check-welcome',
